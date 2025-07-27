@@ -1,2 +1,2 @@
 # Webtech-clone-practise
-My practise area
+Hello My name is Yash Mahadik doing little practise daily to upskill.
